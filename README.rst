@@ -11,3 +11,4 @@ References
 
 #. `The Rust Programming Language <https://doc.rust-lang.org/book/>`_
 #. `Rust Essentials <https://www.packtpub.com/application-development/rust-essentials>`_
+#. `Rust by Example <https://rustbyexample.com/>`_
